@@ -1,6 +1,10 @@
 # SWDPD-Debug-Probe-over-TypeC
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](license.md)
+
 Board with online and offline firmware flashing via SWD, power control via PD and communication via USB.
+
+> The project is currently at the concept stage. Technical specifications may change in the future.
 
 ## Overview
 
@@ -104,3 +108,20 @@ SWDPD is a universal, multifunctional, and compact programmer and debugger that 
 - Dual direction power mosfet
 - Programmable logic level
 - JTAG pogo
+- Dual-Core H7 MPU
+
+------
+
+## Supporting the Project
+
+If this project resonates with you, please consider the following ways to support its development:
+
+- **[Ko-fi](https://ko-fi.com/creapunk):** Preferred for membership subscription and one-time donation
+- **[Patreon](https://patreon.com/creapunk):** Alternative platform with higher fees
+- **Join [Discord community](https://discord.gg/V4aJdTja8v):** Stay updated, engage in discussions, and contribute to the project
+
+**Your contribution, regardless of size, is greatly appreciated!** 
+
+---
+
+***Important Note:** This README will be updated to reflect the latest progress and changes in the project*.
