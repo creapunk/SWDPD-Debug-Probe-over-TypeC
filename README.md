@@ -2,6 +2,10 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](license.md)
 
+![image](https://github.com/creapunk/SWDPD-Debug-Probe-over-TypeC/assets/92550096/b7858178-854d-4108-baff-429ea757e08e)
+![image](https://github.com/creapunk/SWDPD-Debug-Probe-over-TypeC/assets/92550096/f657be2f-0988-4999-97ba-71f13f4d894c)
+
+
 Board with online and offline firmware flashing via SWD, power control via PD and communication via USB.
 
 > The project is currently at the concept stage. Technical specifications may change in the future.
